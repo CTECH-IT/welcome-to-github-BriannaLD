@@ -4,7 +4,7 @@ First repository for new users
 
 Please enter your name: Brianna
 
-Please enter your favorite color: Gray
+Please enter your favorite color: Black
 
 Save and push this file back up to GitHub. 
 Make sure to add a commit comment: "Added name and color"!
